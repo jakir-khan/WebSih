@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navigation {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+.panel {
+    height: 40px;
+    background-color: #FFE382;
+    display: flex;
+    color: white;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+
+
+.hero-section {
+    background-image: url("1.png");
+    width: 100vw;
+    height: 850px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}
+p {
+    font-size: medium;
+    /* font-weight: 600; */
+    text-align: center;
+    color: white;
+}
+
+.but {
+    padding: 10px;
+        padding-right: 50px;
+        border-radius: 30px;
+        text-align: center;
+        background-color: #CD9956;
+        border: 1px solid #CD9956;
+
+}
+.button1 {
+    display: flex;
+    flex-wrap: wrap;
+   bottom: 720px;
+    /* margin-left: 550px; */
+    position: relative;
+    left: 300px;
+     
+}
+
+.button2 {
+     
+    position: relative;
+    bottom: 720px;
+    left: 400px;
+        /* left: 200px; */
+}
+.button3 {
+    /* margin-right: 50px; */
+    position: relative;
+    right: 200px;
+    bottom: -40px;
+}
+.button4 {
+    position: relative;
+    right: 250px;
+    bottom: -40px;
+     
+}
+.button5 {
+    position: relative;
+    bottom: -40px;
+    right: 0px;
+
+     
+}
+.button6 {
+    position: relative;
+    bottom: -40px;
+    left: 190px;
+    
+}
+
+
+
+
+
